@@ -1,7 +1,7 @@
 # Unity Game FireRides_Clone
 FireRides Clone Unity Game (Unity 2020.3.26.f1)
 
-Unity mobile game for Bootcamp Case.
+Unity mobile game for practice.
 
 To play, 
 
